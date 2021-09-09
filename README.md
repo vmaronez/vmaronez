@@ -1,8 +1,8 @@
 ## Oiii! Eu sou o Vinícius Maronez
  <div>
   <a href="https://github.com/vmaronez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vmaronez&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmaronez&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=vmaronez&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmaronez&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
