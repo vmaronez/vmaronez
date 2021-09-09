@@ -1,7 +1,7 @@
 ## Oiii! Eu sou o Vinícius Maronez
  <div>
   <a href="https://github.com/vmaronez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vmaronez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color="#0969da"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vmaronez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=#0969da"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmaronez&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
