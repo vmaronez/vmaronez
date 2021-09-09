@@ -1,8 +1,8 @@
 ## Oiii! Eu sou o Vinícius Maronez
  <div>
   <a href="https://github.com/vmaronez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vmaronez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=#0969da"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmaronez&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vmaronez&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmaronez&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
    <img align="center" alt="Vini-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">      <img align="center" alt="Vini-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livewire/livewire-original.svg">
