@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Vinícius Maronez
+## Oi! Eu sou o Vinícius Maronez
  <div>
   <a href="https://github.com/vmaronez">
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=vmaronez&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
